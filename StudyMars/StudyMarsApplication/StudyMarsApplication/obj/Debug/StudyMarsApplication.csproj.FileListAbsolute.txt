@@ -1,5 +1,0 @@
-D:\Workspace\StudyMars\StudyMarsApplication\StudyMarsApplication\bin\Debug\StudyMarsApplication.exe.config
-D:\Workspace\StudyMars\StudyMarsApplication\StudyMarsApplication\bin\Debug\StudyMarsApplication.exe
-D:\Workspace\StudyMars\StudyMarsApplication\StudyMarsApplication\bin\Debug\StudyMarsApplication.pdb
-D:\Workspace\StudyMars\StudyMarsApplication\StudyMarsApplication\obj\Debug\StudyMarsApplication.exe
-D:\Workspace\StudyMars\StudyMarsApplication\StudyMarsApplication\obj\Debug\StudyMarsApplication.pdb
